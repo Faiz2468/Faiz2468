@@ -1,2 +1,21 @@
-# Faiz2468-
-Profile README
+# Ahmad Faiz
+
+Final-year Information Technology student in Malaysia, building a foundation in cloud infrastructure and DevOps. I'm seeking an internship where I can learn from experienced engineers and contribute to real systems.
+
+## Focus areas
+
+- **Cloud platforms:** AWS and Azure fundamentals
+- **Infrastructure as code:** Terraform and CloudFormation
+- **Containers and orchestration:** Docker, Kubernetes, Helm
+- **CI/CD and security:** GitHub Actions with automated testing and security scanning
+- **Reliability:** backup, recovery and documentation
+
+## Approach
+
+I learn by building. My projects run on free, open-source tooling and local emulators, which lets me practise infrastructure design, automation and recovery planning. I document decisions and limitations as I go.
+
+## Selected work
+
+- [mock-aws-terraform-infra](https://github.com/Faiz2468/mock-aws-terraform-infra): Terraform modules for a mock AWS environment, with CI that runs formatting, validation, linting and security scans on every pull request, plus a documented recovery drill
+- [k8s-demo-api](https://github.com/Faiz2468/k8s-demo-api): a containerised API deployed to Kubernetes with Helm, with image scanning and a smoke test in CI
+- [azure-azurite-demo](https://github.com/Faiz2468/azure-azurite-demo): a basic Azure Blob Storage workflow run against a local emulator
