@@ -17,6 +17,7 @@ I learn by building. My projects run on free tooling and local emulators, which 
 ## Selected work
 
 - [mock-aws-terraform-infra](https://github.com/Faiz2468/mock-aws-terraform-infra): Terraform modules for a mock AWS environment, with CI that runs formatting, validation, linting and security scans (tfsec and Checkov policy-as-code) on every pull request, with every accepted risk documented in the code, plus a documented recovery drill
+- [loki-grafana-logging](https://github.com/Faiz2468/loki-grafana-logging): a local log aggregation stack on Docker Compose, with Grafana Alloy collecting container logs into Loki and Grafana pre-provisioned to query them
 - [k8s-demo-api](https://github.com/Faiz2468/k8s-demo-api): a containerised API deployed to Kubernetes with Helm, with image scanning and a smoke test in CI
 - [azure-azurite-demo](https://github.com/Faiz2468/azure-azurite-demo): a basic Azure Blob Storage workflow run against a local emulator
 
